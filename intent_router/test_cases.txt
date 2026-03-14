@@ -1,0 +1,39 @@
+1. how do i sort a list of objects in python?
+
+2. explain this sql query: SELECT * FROM users WHERE age > 25
+
+3. fix this bug: for i in range(10) print(i)
+
+4. what’s the average of these numbers: 12, 45, 23, 67, 34
+
+5. what is a pivot table and when should I use it?
+
+6. This paragraph sounds awkward, can you help me improve it?
+
+7. My boss says my writing is too verbose. What should I change?
+
+8. Rewrite this sentence to be more professional: "hey send me the file asap"
+
+9. I'm preparing for a job interview, any tips?
+
+10. I am confused about my career path after graduation.
+
+11. How should I structure a cover letter?
+
+12. I need help writing a python function and also want advice on my resume.
+
+13. hey
+
+14. Help me make this better.
+
+15. fxi thsi bug pls: for i in range(5) print(i)
+
+16. Can you write me a poem about clouds?
+
+17. what is the difference between mean and median in statistics?
+
+18. @code write a python function to reverse a string
+
+19. @career how can I switch from mechanical engineering to software development?
+
+20. @writing give feedback on this sentence: "Due to the fact that I was busy, I could not attend the meeting."
